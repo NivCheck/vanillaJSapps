@@ -1,0 +1,22 @@
+body {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.inc, .dec {
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+    border: 0;
+}
+
+.inc {
+    background-color: green;
+}
+
+.dec {
+    background-color: red;
+}

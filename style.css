@@ -1,0 +1,10 @@
+.suggestion-wrapper {
+    border: solid 1px black;
+    width: 160px;
+    height: auto;
+    display: none;
+}
+
+.visible {
+    display: block;
+}
