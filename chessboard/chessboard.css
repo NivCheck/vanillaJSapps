@@ -1,0 +1,30 @@
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.box  {
+    width: 70px;
+    height: 70px;
+    border: solid 1px grey;
+    border-style: inset;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: blue;
+}
